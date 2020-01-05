@@ -1,0 +1,23 @@
+Saat booting linux grub menampilkan beberapa parameter:
+
+Manjaro 18.0
+Advanced options for Manjaro
+Windows 10
+Memory Test(memtest86+)
+Memory Test(memtest86+, serial console 115200)
+
+#Manjaro 18.0 
+Bukti adanya sistem operasi linux yang berbasis Arch Linux yaitu Distro linux Manjaro terpasang dalam sistem.
+
+#Advanced options for Manjaro
+Penyimpanan kernel yang telah terpasang kedalam Manjaro, ini bisa digunakan untuk mengganti versi kernel ketika booting dan masuk ke dalam sistem recovery mode.
+
+#Windows 10
+Adanya operasi sistem Windows yang terpasang dan masuk kedalam list grub.
+
+#Memory Test(memtest86+)
+Menguji fungsi memori komputer dan disimpan hasil scan dan test memori.
+
+#Memory Test(memtest86+, serial console 115200)
+Fungsi ini sama dengan sebelumnya, yang membedakan ini adalah pengujian  kecepatan saat beralih port konsol pada 115200.
+

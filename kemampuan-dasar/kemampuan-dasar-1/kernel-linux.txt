@@ -1,0 +1,14 @@
+> $ pacman -Q | grep linux 
+#output
+archlinux-appstream-data 20191128-1
+archlinux-keyring 20191219-1
+lib32-util-linux 2.34-1
+libutil-linux 2.34-8
+linux-api-headers 5.3.1-2
+linux-firmware 20191220.6871bff-1
+linux54 5.4.6-2                             //linux-Kernel
+linux54-nvidia-440xx 440.44-6               //driver vga(properiety)
+util-linux 2.34-8
+
+
+

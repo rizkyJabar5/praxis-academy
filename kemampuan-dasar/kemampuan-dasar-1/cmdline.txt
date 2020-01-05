@@ -1,0 +1,39 @@
+> $ ls
+#melihat list file yang di direktori saat ini
+
+> $ ls -R 
+#melihat list file yang di direktori saat ini beserta subdirektorinya
+
+> $ cat > contoh1
+>>> Ini adalah contoh konten yang berada di file contoh1
+
+> $ cat contoh1
+#melihat isi file dan mengeluarkan output: Ini adalah contoh konten yang berada di file contoh1
+
+> $ rm contoh1
+#menghapus file
+
+> $ rm -rf /home/user/Downloads/*
+#Menghapus semua isi file yang berada di direktori yang ditunjuk
+
+> $ su
+#masuk ke user administrator sistem
+
+> $ mv contoh2 /home/user/Documents
+#Memindah file ke direktori yang ditunjuk
+
+> $ mkdir folderBaru
+#Membuat folder baru
+
+> $ rmdir folderbaru
+#Menghapus folder
+
+> $ history
+#Menampilkan history perintah yang sudah diketik di terminal
+
+> $ sudo pacman -S apache
+#Memasang aplikasi baru dan ditambahkan perintah 'sudo' sebagai akses ke administrator 
+
+> $ grep linux 
+#Untuk mengambil kata yang ditunjuk, lalu dicari kata yang bersangkutan dan ditampilkan
+
